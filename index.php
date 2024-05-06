@@ -5,8 +5,9 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
 <body>
+    <h2>Rendra Akbar Maulana 6701223049</h2>
+    <h1>Daftar Lowongan Pekerjaan</h1>
     <div id="lowongan-table"></div>
-
     <script>
     $(document).ready(function() {
         $.ajax({
